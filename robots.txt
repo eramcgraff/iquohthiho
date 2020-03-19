@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aepeiwaex.xn--tfs747j.cn/sitemap.xml
